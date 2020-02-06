@@ -1,0 +1,127 @@
+[
+ {
+   "Player": "Riyan Parag (R)",
+   "Role": "Batsman",
+   "Price": "20 lakhs"
+ },
+ {
+   "Player": "Shashank Singh (R)",
+   "Role": "Batsman",
+   "Price": "30 lakhs"
+ },
+ {
+   "Player": "Steve Smith (R)",
+   "Role": "Batsman",
+   "Price": "12.50 crore"
+ },
+ {
+   "Player": "Robin Uthappa",
+   "Role": "Batsman",
+   "Price": "3 crore"
+ },
+ {
+   "Player": "David Miller",
+   "Role": "Batsman",
+   "Price": "75 lakhs"
+ },
+ {
+   "Player": "Manan Vohra (R)",
+   "Role": "Batsman",
+   "Price": ""
+ },
+ {
+   "Player": "Jos Butler (R)",
+   "Role": "Wicket Keeper",
+   "Price": "4.40 crore"
+ },
+ {
+   "Player": "Sanju Samson (R)",
+   "Role": "Wicket Keeper",
+   "Price": "8 crore"
+ },
+ {
+   "Player": "Anuj Rawat",
+   "Role": "Wicket Keeper",
+   "Price": "80 lakhs"
+ },
+ {
+   "Player": "Ben Stokes (R)",
+   "Role": "All-Rounder",
+   "Price": "12.50 crore"
+ },
+ {
+   "Player": "Mahipal Lmoror (R)",
+   "Role": "All-Rounder",
+   "Price": "20 lakhs"
+ },
+ {
+   "Player": "Shreyas Gopal (R)",
+   "Role": "All-Rounder",
+   "Price": "20 lakhs"
+ },
+ {
+   "Player": "Yashasvi Jaiswal",
+   "Role": "All-Rounder",
+   "Price": "2.40 crore"
+ },
+ {
+   "Player": "Tom Curran",
+   "Role": "All-Rounder",
+   "Price": "1 crore"
+ },
+ {
+   "Player": "Ankit Rajpoot (R)",
+   "Role": "Bowler",
+   "Price": "3 crore"
+ },
+ {
+   "Player": "Jofra Archer (R)",
+   "Role": "Bowler",
+   "Price": "7.20 crore"
+ },
+ {
+   "Player": "Mayank Markande (R)",
+   "Role": "Bowler",
+   "Price": "2 crore"
+ },
+ {
+   "Player": "Rahul Tweatia (R)",
+   "Role": "Bowler",
+   "Price": "3 crore"
+ },
+ {
+   "Player": "Varun Aaron (R)",
+   "Role": "Bowler",
+   "Price": "2.40 crore"
+ },
+ {
+   "Player": "Jaydev Unadkat",
+   "Role": "Bowler",
+   "Price": "3 crore"
+ },
+ {
+   "Player": "Kartik Tyagi",
+   "Role": "Bowler",
+   "Price": "1.30 crore"
+ },
+ {
+   "Player": "Andrew Tye",
+   "Role": "Bowler",
+   "Price": "1 crore"
+ },
+ {
+   "Player": "Oshane Thomas",
+   "Role": "Bowler",
+   "Price": "50 lakhs"
+ },
+ {
+   "Player": "Anirudha Ashok Joshi",
+   "Role": "All-Rounder",
+   "Price": "20 lakhs"
+ },
+ {
+   "Player": "Akash Singh",
+   "Role": "Bowler",
+   "Price": "20 lakhs"
+ }
+]

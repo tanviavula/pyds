@@ -1,0 +1,122 @@
+[
+ {
+   "Player": "Rohit Sharma (R)",
+   "Role": "Batsman",
+   "Price": "15 crore"
+ },
+ {
+   "Player": "Anmolpreet Singh (R)",
+   "Role": "Batsman",
+   "Price": "80 lakhs"
+ },
+ {
+   "Player": "Ankul Roy (R)",
+   "Role": "Batsman",
+   "Price": "20 lakhs"
+ },
+ {
+   "Player": "Sherfane Rutherford (R)",
+   "Role": "Batsman",
+   "Price": "2 crore"
+ },
+ {
+   "Player": "Suryakumar Yadav (R)",
+   "Role": "Batsman",
+   "Price": "3.20 crore"
+ },
+ {
+   "Player": "Chris Lynn",
+   "Role": "Batsman",
+   "Price": "2 crore"
+ },
+ {
+   "Player": "Saurabh Tiwary",
+   "Role": "Batsman",
+   "Price": "50 lakhs"
+ },
+ {
+   "Player": "Aditya Tare (R)",
+   "Role": "Wicket Keeper",
+   "Price": "20 lakhs"
+ },
+ {
+   "Player": "Ishan Kishan (R)",
+   "Role": "Wicket Keeper",
+   "Price": "6.20 crore"
+ },
+ {
+   "Player": "Quinton de Kock (R)",
+   "Role": "Wicket Keeper",
+   "Price": "2.80 crore"
+ },
+ {
+   "Player": "Hardik Pandya (R)",
+   "Role": "All-Rounder",
+   "Price": "11 crore"
+ },
+ {
+   "Player": "Kieron Pollard (R)",
+   "Role": "All-Rounder",
+   "Price": "5.40 crore"
+ },
+ {
+   "Player": "Krunal Pandya (R)",
+   "Role": "All-Rounder",
+   "Price": "8.80 crore"
+ },
+ {
+   "Player": "Rahul Chahar (R)",
+   "Role": "All-Rounder",
+   "Price": "1.90 crore"
+ },
+ {
+   "Player": "Digvijay Deshmukh",
+   "Role": "All-Rounder",
+   "Price": "20 lakhs"
+ },
+ {
+   "Player": "Prince Balwant Rai Singh",
+   "Role": "All-Rounder",
+   "Price": "20 lakhs"
+ },
+ {
+   "Player": "Dhawal Kulkarni (R)",
+   "Role": "Bowler",
+   "Price": "75 lakhs"
+ },
+ {
+   "Player": "Jasprit Bumrah (R)",
+   "Role": "Bowler",
+   "Price": "7 crore"
+ },
+ {
+   "Player": "Jayant Yadav (R)",
+   "Role": "Bowler",
+   "Price": "50 lakhs"
+ },
+ {
+   "Player": "Lasith Malinga (R)",
+   "Role": "Bowler",
+   "Price": "2 crore"
+ },
+ {
+   "Player": "Mitchell McClenaghan (R)",
+   "Role": "Bowler",
+   "Price": "1 crore"
+ },
+ {
+   "Player": "Trent Boult (R)",
+   "Role": "Bowler",
+   "Price": "3.20 crore"
+ },
+ {
+   "Player": "Nathan Coulter-Nile",
+   "Role": "Bowler",
+   "Price": "8 crore"
+ },
+ {
+   "Player": "Mohsin Khan",
+   "Role": "Bowler",
+   "Price": "20 lakhs"
+ }
+]

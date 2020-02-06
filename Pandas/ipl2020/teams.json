@@ -1,0 +1,50 @@
+[
+ {
+   "team": "Mumbai Indians",
+   "home": "Wankhede Stadium, Mumbai",
+   "city": "Mumbai, Maharashtra",
+   "coach": "Mahela Jaywardene"
+ },
+ {
+   "team": "Chennai Super Kings",
+   "home": "M.A. Chidambaram Stadium, Chennai",
+   "city": "Chennai, Tamil Nadu",
+   "coach": "Stephen Fleming"
+ },
+ {
+   "team": "Delhi Capitals",
+   "home": "Feroz Shah Kotla Ground",
+   "city": "Delhi, NCR",
+   "coach": "Ricky Ponting"
+ },
+ {
+   "team": "Kings XI Punjab",
+   "home": "IS Bindra Stadium",
+   "city": "Mohali, Punjab",
+   "coach": "Anil Kumble"
+ },
+ {
+   "team": "Kolkata Knight Riders",
+   "home": "Eden Gardens",
+   "city": "Kolkata, West Bengal",
+   "coach": "Brendon McCullum"
+ },
+ {
+   "team": "Rajasthan Royals",
+   "home": "Sawai Mansingh Stadium",
+   "city": "Jaipur, Rajasthan",
+   "coach": "Andrew McDonald"
+ },
+ {
+   "team": "Royal Challengers Bangalore",
+   "home": "M. Chinnaswamy Stadium",
+   "city": "Bengaluru, Karnataka",
+   "coach": "Simon Katich"
+ },
+ {
+   "team": "Sunrisers Hyderabad",
+   "home": "Rajiv Gandhi International Cricket Stadium",
+   "city": "Hyderabad, Telengana",
+   "coach": "Trevor Bayliss"
+ }
+]

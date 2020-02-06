@@ -1,0 +1,112 @@
+[
+ {
+   "Player": "Shreyas Iyer (R)",
+   "Role": "Batsman",
+   "Price": "7 crore"
+ },
+ {
+   "Player": "Ajinkya Rahane (R)",
+   "Role": "Batsman",
+   "Price": "5.25 crore"
+ },
+ {
+   "Player": "Avesh Khan (R)",
+   "Role": "Batsman",
+   "Price": "70 lakhs"
+ },
+ {
+   "Player": "Keemo Paul (R)",
+   "Role": "Batsman",
+   "Price": "50 lakhs"
+ },
+ {
+   "Player": "Prithvi Shaw (R)",
+   "Role": "Batsman",
+   "Price": "1.20 crore"
+ },
+ {
+   "Player": "Shikhar Dhawan (R)",
+   "Role": "Batsman",
+   "Price": "5.20 crore"
+ },
+ {
+   "Player": "Shimron Heymyer",
+   "Role": "Batsman",
+   "Price": "7.75 crore"
+ },
+ {
+   "Player": "Jason Roy",
+   "Role": "Batsman",
+   "Price": "1.50 crore"
+ },
+ {
+   "Player": "Rishabh Pant (R)",
+   "Role": "Wicket Keeper",
+   "Price": "15 crore"
+ },
+ {
+   "Player": "Alex Carey",
+   "Role": "Wicket Keeper",
+   "Price": "2.40 crore"
+ },
+ {
+   "Player": "Marcus Stoinis",
+   "Role": "All-Rounder",
+   "Price": "4.80 crore"
+ },
+ {
+   "Player": "Lalit Yadav",
+   "Role": "All-Rounder",
+   "Price": "20 lakhs"
+ },
+ {
+   "Player": "Chris Woakes",
+   "Role": "All-Rounder",
+   "Price": "1.50 crore"
+ },
+ {
+   "Player": "Ravichandran Ashwin (R)",
+   "Role": "Bowler",
+   "Price": "7.60 crore"
+ },
+ {
+   "Player": "Sandeep Lamichhane (R)",
+   "Role": "Bowler",
+   "Price": "20 lakhs"
+ },
+ {
+   "Player": "Axax Patel (R)",
+   "Role": "Bowler",
+   "Price": "5 crore"
+ },
+ {
+   "Player": "Harshal Patel (R)",
+   "Role": "Bowler",
+   "Price": "20 lakhs"
+ },
+ {
+   "Player": "Ishant Sharma (R)",
+   "Role": "Bowler",
+   "Price": "1.10 crore"
+ },
+ {
+   "Player": "Kagiso Rabada (R)",
+   "Role": "Bowler",
+   "Price": "4.20 crore"
+ },
+ {
+   "Player": "Mohit Sharma",
+   "Role": "Bowler",
+   "Price": "50 lakhs"
+ },
+ {
+   "Player": "Tushar Deshpande",
+   "Role": "Bowler",
+   "Price": "20 lakhs"
+ },
+ {
+   "Player": "Amit Mishra (R)",
+   "Role": "Bowler",
+   "Price": "4 crore"
+ }
+]
